@@ -1,4 +1,6 @@
 {
-  "version": "1.0.6",
-  "download": "https://souzak-byte.github.io/laudos-update/Sistema-Laudos-BTL-1.0.6.apk"
+  "version": "1.0.7",
+  "download": "https://souzak-byte.github.io/laudos-update/Sistema-Laudos-BTL-1.0.7.apk",
+  "date": "18/05/2026",
+  "notes": "Painel de usuarios, historico local de laudos, campo de observacoes no PDF e tela de atualizacao com detalhes."
 }
